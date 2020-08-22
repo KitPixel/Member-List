@@ -26,6 +26,8 @@
 
 [YZY1360/啊一哦诶](https://github.com/YZY1360) & NY
 
+[66RING/66RING](https://github.com/66RING) & NY
+
 [Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) & NY
 
 [QRQaccount/有趣的人与事](https://github.com/QRQaccount) & NY
