@@ -38,6 +38,8 @@
 
 [DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
 
+[66RING/RING](https://github.com/66RING) & NY
+
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
 TD = Technology Department</br>
