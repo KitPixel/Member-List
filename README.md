@@ -66,7 +66,7 @@
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
 
-19 members in total
+21 members in total
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
