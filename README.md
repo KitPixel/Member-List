@@ -50,11 +50,13 @@
 
 [WLFJ/晚来风急](https://github.com/WLFJ) TD
 
+[Soulmates1746/2.71828](https://github.com/Soulmates1746) TD
+
+[uniqueding/printf](https://github.com/uniqueding) NY
+
 [herschel-ma/Herschel](https://github.com/Herschel) & TD
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
-
-[Soulmates1746/2.71828](https://github.com/Soulmates1746) TD
 
 16 members in total
 
