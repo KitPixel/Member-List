@@ -78,9 +78,7 @@
 
 [cc2068/轨迹](https://github.com/cc2068) TE
 
-[LittleYellowFlower620/繁](https://github.com/LittleYellowFlower620) & NY
-
-26 members in total
+27 members in total
 
 TD = Technology Department</br>
 PD = Propaganda Department</br>
