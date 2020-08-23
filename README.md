@@ -20,7 +20,7 @@
 
 [**denstiny/Aero**](https://github.com/denstiny) NY
 
-5 admins in total
+6 admins in total
 
 ### <center>Members</center>
 
