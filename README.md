@@ -24,6 +24,8 @@
 
 ### <center>Members</center>
 
+[ipython3/派三叔iPython3](https://github.com/ipython3) TD
+
 [KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD
 
 [YZY1360/啊一哦诶](https://github.com/YZY1360) CU
@@ -37,6 +39,8 @@
 [VainJoker/vj](https://github.com/VainJoker) TD
 
 [QRQaccount/有趣的人与事](https://github.com/QRQaccount) NY
+
+[chitang233/Chi_Tang](https://github.com/chitang233) NY
 
 [Trafalgar99/Trafal](https://github.com/Trafalgar99) TD
 
