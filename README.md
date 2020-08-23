@@ -72,7 +72,7 @@
 
 [YSXCC/YSXCC](https://github.com/YSXCC) TD
 
-[herschel-ma/Herschel](https://github.com/Herschel) TD
+[herschel-ma/Herschel](https://github.com/herschel-ma) TD
 
 [GTX2000/spirit](https://github.com/GTX2000) TD
 
