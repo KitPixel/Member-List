@@ -46,7 +46,7 @@
 
 [Cheereus/陈十一](https://github.com/Cheereus) & NY
 
-[WLFJ/晚来风急](https://github.com/WLFJ) & TD
+[WLFJ/晚来风急](https://github.com/WLFJ) TD
 
 [herschel-ma/Herschel](https://github.com/Herschel) & TD
 
