@@ -60,18 +60,27 @@
 
 [tujiao-zh/兔角](https://github.com/tujiao-zh) TD
 
-[herschel-ma/Herschel](https://github.com/Herschel) & TD
+[mtsj/蒙头睡觉](https://github.com/mtsj) TD
 
-[GTX2000/spirit](https://github.com/GTX2000) & TD
+[zerols/zero](https://github.com/zerols) CU
+
+[Arrake-One/Arrake](https://github.com/Arrake-One) TD
+
+[YSXCC/YSXCC](https://github.com/YSXCC) TD
+
+[herschel-ma/Herschel](https://github.com/Herschel) TD
+
+[GTX2000/spirit](https://github.com/GTX2000) TD
+
+[cc2068/轨迹](https://github.com/cc2068) TE
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
 
-21 members in total
-
-**Please create an issue or pull request for studio members to let me know your github nickname**
+26 members in total
 
 TD = Technology Department</br>
 PD = Propaganda Department</br>
+TE = Test Department</br>
 NY = Not yet</br>
 SE = Server/Service</br>
 CU = Cut</br>
