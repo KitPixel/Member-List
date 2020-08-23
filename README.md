@@ -8,15 +8,17 @@
 
 ### <center>Admins</center>
 
+[**SpringHan/SpringHan**](https://github.com/SpringHan) TD
+
 [**liziqian1/李梓迁**](https://github.com/liziqian1) TD
 
 [**Reverses-233/Reverses**](https://github.com/Reverses-233) TD
 
-[**SpringHan/SpringHan**](https://github.com/SpringHan) TD
-
 [**EvanMeek/Evan**](https://github.com/EvanMeek) NY
 
 [**JimMoen/JimMoen**](https://github.com/JimMoen) NY
+
+5 admins in total
 
 ### <center>Members</center>
 
@@ -51,6 +53,8 @@
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
 
 [Soulmates1746/2.71828](https://github.com/Soulmates1746) & TD
+
+16 members in total
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
