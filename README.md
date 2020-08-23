@@ -58,7 +58,11 @@
 
 [noodlesryu/noodles](https://github.com/noodlesryu) TD
 
+[tujiao-zh/兔角](https://github.com/tujiao-zh) TD
+
 [herschel-ma/Herschel](https://github.com/Herschel) & TD
+
+[GTX2000/spirit](https://github.com/GTX2000) & TD
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
 
