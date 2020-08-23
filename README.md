@@ -4,46 +4,56 @@
 
 ### <center>Owner</center>
 
-[**KiteAB/KiteAB**](https://github.com/KiteAB)
+[**KiteAB/KiteAB**](https://github.com/KiteAB) TD
 
 ### <center>Admins</center>
 
-[**liziqian1/李梓迁**](https://github.com/liziqian1)
+[**liziqian1/李梓迁**](https://github.com/liziqian1) TD
+[**Reverses-233/Reverses**](https://github.com/Reverses-233) TD
+[**SpringHan/SpringHan**](https://github.com/SpringHan) TD
+[**EvanMeek/Evan**](https://github.com/EvanMeek) NY
+[**JimMoen/JimMoen**](https://github.com/JimMoen) NY
 
 ### <center>Members</center>
 
-[Reverses-233/Reverses](https://github.com/Reverses-233) TD
+[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD
 
-[SpringHan/SpringHan](https://github.com/SpringHan) TD
+[YZY1360/啊一哦诶](https://github.com/YZY1360) CU
 
-[EvanMeek/Evan](https://github.com/EvanMeek) NY
+[66RING/66RING](https://github.com/66RING) TD
 
-[JimMoen/JimMoen](https://github.com/JimMoen) NY
+[qianjhv/one](https://github.com/qianjhv) TD
 
-[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD NY
+[Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) TD
 
-[jameskid007/米虫](https://github.com/jameskid007) & TD
+[QRQaccount/有趣的人与事](https://github.com/QRQaccount) NY
 
-[YZY1360/啊一哦诶](https://github.com/YZY1360) & NY
+[Trafalgar99/Trafal](https://github.com/Trafalgar99) TD
 
-[66RING/66RING](https://github.com/66RING) & NY
+[BoxMars/Box](https://github.com/BoxMars) TD
 
-[Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) & NY
+[DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) TD PD
 
-[QRQaccount/有趣的人与事](https://github.com/QRQaccount) & NY
+[LeeSunBowen/SpringerLee](https://github.com/LeeSunBowen) TD
+
+[Ranzeplay/ranzeplay](https://github.com/Ranzeplay) SE
 
 [Cheereus/陈十一](https://github.com/Cheereus) & NY
 
-[Trafalgar99/Trafal](https://github.com/Trafalgar99) & TD NY
+[WLFJ/晚来风急](https://github.com/WLFJ) & TD
 
-[BoxMars/Box](https://github.com/BoxMars) & TD NY
+[herschel-ma/Herschel](https://github.com/Herschel) & TD
 
-[DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) & TD PD
+[LittleFlower620/繁](https://github.com/LittleFlower620) & NY
+
+[Soulmates1746/2.71828](https://github.com/Soulmates1746) & TD
 
 **Please create an issue or pull request for studio members to let me know your github nickname**
 
 TD = Technology Department</br>
 PD = Propaganda Department</br>
 NY = Not yet</br>
+SE = Server/Service</br>
+CU = Cut</br>
 &  = Unreviewed
 
