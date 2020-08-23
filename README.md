@@ -74,7 +74,7 @@
 
 [cc2068/轨迹](https://github.com/cc2068) TE
 
-[LittleFlower620/繁](https://github.com/LittleFlower620) & NY
+[LittleYellowFlower620/繁](https://github.com/LittleYellowFlower620) & NY
 
 26 members in total
 
