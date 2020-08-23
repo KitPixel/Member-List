@@ -18,6 +18,8 @@
 
 [**JimMoen/JimMoen**](https://github.com/JimMoen) NY
 
+[**denstiny/Aero**](https://github.com/denstiny) NY
+
 5 admins in total
 
 ### <center>Members</center>
@@ -44,7 +46,7 @@
 
 [Ranzeplay/ranzeplay](https://github.com/Ranzeplay) SE
 
-[Cheereus/陈十一](https://github.com/Cheereus) & NY
+[Cheereus/陈十一](https://github.com/Cheereus) TD
 
 [WLFJ/晚来风急](https://github.com/WLFJ) TD
 
@@ -52,7 +54,7 @@
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
 
-[Soulmates1746/2.71828](https://github.com/Soulmates1746) & TD
+[Soulmates1746/2.71828](https://github.com/Soulmates1746) TD
 
 16 members in total
 
