@@ -56,6 +56,8 @@
 
 [uniqueding/printf](https://github.com/uniqueding) NY
 
+[noodlesryu/noodles](https://github.com/noodlesryu) TD
+
 [herschel-ma/Herschel](https://github.com/Herschel) & TD
 
 [LittleFlower620/繁](https://github.com/LittleFlower620) & NY
