@@ -34,6 +34,8 @@
 
 [Margaret-Zhang/FreeBSD的忠实粉丝](https://github.com/Margaret-Zhang) TD
 
+[VainJoker/vj](https://github.com/VainJoker) TD
+
 [QRQaccount/有趣的人与事](https://github.com/QRQaccount) NY
 
 [Trafalgar99/Trafal](https://github.com/Trafalgar99) TD
