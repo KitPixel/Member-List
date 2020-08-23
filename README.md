@@ -81,7 +81,7 @@
 27 members in total
 
 TD = Technology Department</br>
-PD = Propaganda Department</br>
+PD = Publicity Department</br>
 TE = Test Department</br>
 NY = Not yet</br>
 SE = Server/Service</br>
