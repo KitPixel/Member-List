@@ -18,11 +18,11 @@
 
 [**denstiny/Aero**](https://github.com/denstiny) NY
 
-5 admins in total
+[ipython3/派三叔iPython3](https://github.com/ipython3) TD
+
+6 admins in total
 
 ### <center>Members</center>
-
-[ipython3/派三叔iPython3](https://github.com/ipython3) TD
 
 [KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD
 
@@ -78,7 +78,7 @@
 
 [**Reverses-233/Reverses**](https://github.com/Reverses-233) NY
 
-28 members in total
+27 members in total
 
 TD = Technology Department</br>
 PD = Publicity Department</br>
