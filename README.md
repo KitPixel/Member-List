@@ -12,19 +12,17 @@
 
 [**liziqian1/李梓迁**](https://github.com/liziqian1) TD
 
-[**Reverses-233/Reverses**](https://github.com/Reverses-233) TD
-
 [**EvanMeek/Evan**](https://github.com/EvanMeek) NY
 
 [**JimMoen/JimMoen**](https://github.com/JimMoen) NY
 
 [**denstiny/Aero**](https://github.com/denstiny) NY
 
+[ipython3/派三叔iPython3](https://github.com/ipython3) TD
+
 6 admins in total
 
 ### <center>Members</center>
-
-[ipython3/派三叔iPython3](https://github.com/ipython3) TD
 
 [KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD
 
@@ -40,7 +38,7 @@
 
 [QRQaccount/有趣的人与事](https://github.com/QRQaccount) NY
 
-[chitang233/Chi_Tang](https://github.com/chitang233) NY
+[chitang233/Chi_Tang](https://github.com/chitang233) CU
 
 [Trafalgar99/Trafal](https://github.com/Trafalgar99) TD
 
@@ -77,6 +75,8 @@
 [GTX2000/spirit](https://github.com/GTX2000) TD
 
 [cc2068/轨迹](https://github.com/cc2068) TE
+
+[**Reverses-233/Reverses**](https://github.com/Reverses-233) NY
 
 27 members in total
 
