@@ -12,13 +12,13 @@
 
 [**liziqian1/李梓迁**](https://github.com/liziqian1) TD
 
+[**ipython3/派三叔iPython3**](https://github.com/ipython3) TD
+
 [**EvanMeek/Evan**](https://github.com/EvanMeek) NY
 
 [**JimMoen/JimMoen**](https://github.com/JimMoen) NY
 
 [**denstiny/Aero**](https://github.com/denstiny) NY
-
-[ipython3/派三叔iPython3](https://github.com/ipython3) TD
 
 6 admins in total
 
@@ -76,7 +76,7 @@
 
 [cc2068/轨迹](https://github.com/cc2068) TE
 
-[**Reverses-233/Reverses**](https://github.com/Reverses-233) NY
+[Reverses-233/Reverses](https://github.com/Reverses-233) NY
 
 27 members in total
 
