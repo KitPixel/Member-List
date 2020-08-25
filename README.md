@@ -10,9 +10,9 @@
 
 [**SpringHan/SpringHan**](https://github.com/SpringHan) TD
 
-[**liziqian1/李梓迁**](https://github.com/liziqian1) TD
-
 [**ipython3/派三叔iPython3**](https://github.com/ipython3) TD
+
+[**liziqian1/李梓迁**](https://github.com/liziqian1) TD CU
 
 [**EvanMeek/Evan**](https://github.com/EvanMeek) NY
 
@@ -20,7 +20,9 @@
 
 [**denstiny/Aero**](https://github.com/denstiny) NY
 
-6 admins in total
+[**Ranzeplay/ranzeplay**](https://github.com/Ranzeplay) SE
+
+7 admins in total
 
 ### <center>Members</center>
 
@@ -47,8 +49,6 @@
 [DreamSaddle/梦鞍驾梦](https://github.com/DreamSaddle) TD PD
 
 [LeeSunBowen/SpringerLee](https://github.com/LeeSunBowen) TD
-
-[Ranzeplay/ranzeplay](https://github.com/Ranzeplay) SE
 
 [Cheereus/陈十一](https://github.com/Cheereus) TD
 
@@ -78,7 +78,7 @@
 
 [Reverses-233/Reverses](https://github.com/Reverses-233) NY
 
-27 members in total
+26 members in total
 
 TD = Technology Department</br>
 PD = Publicity Department</br>
