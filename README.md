@@ -26,8 +26,6 @@
 
 ### <center>Members</center>
 
-[KyleJKC/KyleJKC](https://github.com/KyleJKC) TD PD
-
 [YZY1360/啊一哦诶](https://github.com/YZY1360) CU
 
 [66RING/66RING](https://github.com/66RING) TD
