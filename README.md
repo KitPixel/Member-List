@@ -76,7 +76,7 @@
 
 [Reverses-233/Reverses](https://github.com/Reverses-233) NY
 
-26 members in total
+25 members in total
 
 TD = Technology Department</br>
 PD = Publicity Department</br>
