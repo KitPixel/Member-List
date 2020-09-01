@@ -1,4 +1,54 @@
 * KitPixel
 ** Member List
 *** Owner
-    *[[https://github.com/KiteAB][KiteAB/KiteAB]]*
+    *[[https://github.com/KiteAB][KiteAB/KiteAB]]* TD
+*** Admins
+    *[[https://github.com/SpringHan][SpringHan/SpringHan]]* TD
+    *[[https://github.com/ipython3][ipython3/派三叔iPython3]]* TD
+    *[[https://github.com/liziqian1][liziqian1/李梓迁]]* TD CU
+    *[[https://github.com/EvanMeek][EvanMeek/Evan]]* NY
+    *[[https://github.com/JimMoen][JimMoen/JimMoen]]* NY
+    *[[https://github.com/Ranzeplay][Ranzeplay/ranzeplay]]* SE
+
+    6 admins in total
+
+*** Members
+    [[https://github.com/YZY1360][YZY1360/啊一哦诶]] CU
+    [[https://github.com/66RING][66RING/66RING]] TD
+    [[https://github.com/qianjhv][qianjhv/one]] TD
+    [[https://github.com/Margaret-Zhang][Margaret-Zhang/FreeBSD的忠实粉丝]] TD
+    [[https://github.com/VainJoker][VainJoker/vj]] TD
+    [[https://github.com/QRQaccount][QRQaccount/有趣的人与事]] NY
+    [[https://github.com/chitang233][chitang233/Chi_Tang]] CU
+    [[https://github.com/Trafalgar99][Trafalgar99/Trafal]] TD
+    [[https://github.com/BoxMars][BoxMars/Box]] TD
+    [[https://github.com/DreamSaddle][DreamSaddle/梦鞍驾梦]] TD PD
+    [[https://github.com/LeeSunBowen][LeeSunBowen/SpringerLee]] TD
+    [[https://github.com/Cheereus][Cheereus/陈十一]] TD
+    [[https://github.com/WLFJ][WLFJ/晚来风急]] TD
+    [[https://github.com/Soulmates1746][Soulmates1746/2.71828]] TD
+    [[https://github.com/uniqueding][uniqueding/printf]] NY
+    [[https://github.com/noodlesryu][noodlesryu/noodles]] TD
+    [[https://github.com/tujiao-zh][tujiao-zh/兔角]] TD
+    [[https://github.com/mtsj][mtsj/蒙头睡觉]] TD
+    [[https://github.com/Arrake-One][Arrake-One/Arrake]] TD
+    [[https://github.com/YSXCC][YSXCC/YSXCC]] TD
+    [[https://github.com/herschel-ma][herschel-ma/Herschel]] TD
+    [[https://github.com/GTX2000][GTX2000/spirit]] TD
+    [[https://github.com/cc2068][cc2068/轨迹]] TE
+
+    23 members in total
+    
+    TD = Technology Department
+
+    PD = Publicity Department
+
+    TE = Test Department
+
+    NY = Not yet
+
+    SE = Server/Service
+
+    CU = Cut
+
+    &  = Unreviewed
