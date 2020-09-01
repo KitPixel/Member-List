@@ -60,8 +60,6 @@
 
 [mtsj/蒙头睡觉](https://github.com/mtsj) TD
 
-[zerols/zero](https://github.com/zerols) CU
-
 [Arrake-One/Arrake](https://github.com/Arrake-One) TD
 
 [YSXCC/YSXCC](https://github.com/YSXCC) TD
@@ -72,7 +70,7 @@
 
 [cc2068/轨迹](https://github.com/cc2068) TE
 
-24 members in total
+23 members in total
 
 TD = Technology Department</br>
 PD = Publicity Department</br>
