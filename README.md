@@ -18,11 +18,9 @@
 
 [**JimMoen/JimMoen**](https://github.com/JimMoen) NY
 
-[**denstiny/Aero**](https://github.com/denstiny) NY
-
 [**Ranzeplay/ranzeplay**](https://github.com/Ranzeplay) SE
 
-7 admins in total
+6 admins in total
 
 ### <center>Members</center>
 
@@ -74,9 +72,7 @@
 
 [cc2068/轨迹](https://github.com/cc2068) TE
 
-[Reverses-233/Reverses](https://github.com/Reverses-233) NY
-
-25 members in total
+24 members in total
 
 TD = Technology Department</br>
 PD = Publicity Department</br>
