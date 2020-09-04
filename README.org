@@ -51,8 +51,6 @@
 
     [[https://github.com/noodlesryu][noodlesryu/noodles]] TD
 
-    [[https://github.com/tujiao-zh][tujiao-zh/兔角]] TD
-
     [[https://github.com/mtsj][mtsj/蒙头睡觉]] TD
 
     [[https://github.com/Arrake-One][Arrake-One/Arrake]] TD
@@ -63,9 +61,9 @@
 
     [[https://github.com/GTX2000][GTX2000/spirit]] TD
 
-    [[https://github.com/cc2068][cc2068/轨迹]] TE
+    [[https://github.com/denstiny][denstiny/Aero]] TD
 
-    23 members in total
+    22 members in total
     
     TD = Technology Department
 
