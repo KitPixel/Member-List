@@ -69,10 +69,16 @@
 
     24 members in total
     
-    TD = Technology Department  
-    PD = Publicity Department  
-    TE = Test Department  
-    NY = Not yet  
-    SE = Server/Service  
-    CU = Cut  
+    TD = Technology Department
+
+    PD = Publicity Department
+
+    TE = Test Department
+
+    NY = Not yet
+
+    SE = Server/Service
+
+    CU = Cut
+
     &  = Unreviewed
