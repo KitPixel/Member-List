@@ -25,8 +25,6 @@
 
     [[https://github.com/qianjhv][qianjhv/one]] TD
 
-    [[https://github.com/Margaret-Zhang][Margaret-Zhang/FreeBSD的忠实粉丝]] TD
-
     [[https://github.com/VainJoker][VainJoker/vj]] TD
 
     [[https://github.com/QRQaccount][QRQaccount/有趣的人与事]] NY
@@ -67,7 +65,7 @@
 
     [[https://github.com/NoobStudio233][NoobStudio233/NoobStudio]] TD
 
-    24 members in total
+    23 members in total
     
     TD = Technology Department
 
