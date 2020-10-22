@@ -64,7 +64,7 @@
 
     [[https://github.com/NoobStudio233][NoobStudio233/NoobStudio]] TD
 
-    23 members in total
+    22 members in total
     
     TD = Technology Department
 
