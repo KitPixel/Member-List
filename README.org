@@ -60,8 +60,6 @@
 
     [[https://github.com/GTX2000][GTX2000/spirit]] TD
 
-    [[https://github.com/denstiny][denstiny/Aero]] TD
-
     [[https://github.com/Darwin-Ming][Darwin-Ming/~_~]] TD
 
     [[https://github.com/NoobStudio233][NoobStudio233/NoobStudio]] TD
