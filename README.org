@@ -8,15 +8,11 @@
 
     *[[https://github.com/ipython3][ipython3/派三叔iPython3]]* TD
 
-    *[[https://github.com/liziqian1][liziqian1/李梓迁]]* TD CU
-
     *[[https://github.com/EvanMeek][EvanMeek/Evan]]* NY
 
     *[[https://github.com/JimMoen][JimMoen/JimMoen]]* NY
 
-    *[[https://github.com/Ranzeplay][Ranzeplay/ranzeplay]]* SE
-
-    6 admins in total
+    4 admins in total
 
 *** Members
 **** Main Group
